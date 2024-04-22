@@ -1,0 +1,30 @@
+
+header{
+    background-color: aqua;
+    height: 800px;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   padding-top: 5%;
+}
+.title{
+    text-align: center;
+}
+.menuinfo{
+    text-align: center;
+}
+.aboutinfo{
+    text-align: center;
+}
+button{
+    width: 90px;
+    margin-right: 5px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(96, 165, 96);
+    color: white;
+}
